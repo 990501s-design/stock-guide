@@ -1,0 +1,15 @@
+{
+  "name": "주식 가이드",
+  "short_name": "주식가이드",
+  "description": "참고용 종목 정보 · RSI · 피어앤그리드 지수 · 적립식 투자 시뮬레이션",
+  "start_url": "./주식가이드.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0B0D10",
+  "theme_color": "#0B0D10",
+  "lang": "ko",
+  "icons": [
+    { "src": "icon.png", "sizes": "any", "type": "image/png", "purpose": "any" },
+    { "src": "icon.png", "sizes": "any", "type": "image/png", "purpose": "maskable" }
+  ]
+}
